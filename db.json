@@ -1,0 +1,40 @@
+{
+  "Jogos": [
+    {
+      "id": 1,
+      "Nome": "Mortal Kombat 1",
+      "Genero": "Luta",
+      "Imagem": "https://ucegamers.com.br/site/wp-content/uploads/2022/08/Sonic-the-Movie-Sonic-VS-Knuckles-coming-to-Japan-in-Summer-2022-3.jpg"
+    },
+    {
+      "id": 2,
+      "Nome": "Lego batman - ps2",
+      "Genero": "Aventura",
+      "Imagem": "https://cdn-products.eneba.com/resized-products/aRGihKFChi00Of5xoxwts32SKdrSpCKo5uE0cw3Rkm8_350x200_1x-0.jpeg"
+    },
+    {
+      "id": 3,
+      "Nome": "Carlos - ps1",
+      "Genero": "Aventura",
+      "Imagem": "https://pbs.twimg.com/media/Eb3EewmXQAEUwdT.jpg"
+    },
+    {
+      "Nome": "League of legends",
+      "Genero": "Moba",
+      "Imagem": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LOL_2560x1440-98749e0d718e82d27a084941939bc9d3",
+      "id": 4
+    },
+    {
+      "Nome": "Minecraft",
+      "Genero": "aventura",
+      "Imagem": "https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg",
+      "id": 5
+    },
+    {
+      "Nome": "Forza Horizon: 5",
+      "Genero": "Corrida",
+      "Imagem": "https://news.xbox.com/pt-br/wp-content/uploads/sites/8/2021/11/ForzaHorizon5_KeyArt_Horiz_RGB_Final.jpg",
+      "id": 6
+    }
+  ]
+}

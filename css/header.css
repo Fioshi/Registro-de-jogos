@@ -1,0 +1,37 @@
+.cabecalho {
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabecalho__logo-h1 {
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.cabecalho__opcoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabecalho__link {
+    margin: 1em;
+    border-radius: 2px;
+}
+
+.cabecalho__input {
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: transparent;
+    border-radius: 3px;
+    padding: 0.5em;
+    width: 10em;
+}
+
+.cabecalho__input:hover {
+    color: white;
+    background-color: black;
+    transition: 0.5s;
+}

@@ -1,0 +1,74 @@
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.jogos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.jogos__card {
+    padding: 0.5em;
+    max-width: 20%;
+    /* height: 26vw; */
+    background-color: azure;
+    margin: 4em;
+    border-radius: 14px;
+    box-shadow: 4px 2px 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.jogos__card-figure {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+.jogos__img {
+    max-width: 70%;
+    border-radius: 10px;
+    box-shadow: 2px 1px 1px rgba(0, 0, 0, 0.267);
+}
+
+.jogos__nome,
+.jogos__genero {
+    padding: 0.5em;
+}
+
+.jogos__informacoes {
+    font-weight: 500;
+}
+
+@media screen and (max-width: 500px) {
+    .jogos__card {
+        max-width: 300px;
+    }
+    .jogos__img {
+        max-width: 95%;
+        border-radius: 10px;
+        box-shadow: 2px 1px 1px rgba(0, 0, 0, 0.267);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .jogos__card {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .jogos__card {
+        max-width: 300px;
+    }
+}
