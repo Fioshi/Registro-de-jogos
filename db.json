@@ -35,6 +35,18 @@
       "Genero": "Corrida",
       "Imagem": "https://news.xbox.com/pt-br/wp-content/uploads/sites/8/2021/11/ForzaHorizon5_KeyArt_Horiz_RGB_Final.jpg",
       "id": 6
+    },
+    {
+      "Nome": "Pokemon: Sun and Moon",
+      "Genero": "Aventura, rpg",
+      "Imagem": "https://3.bp.blogspot.com/-Cmx_suhKN5s/WESJ8srwO_I/AAAAAAAABNo/iSNrRLVcQBAncVCZqAcICokygmSVHzf7wCLcB/s1600/imagem1.png",
+      "id": 7
+    },
+    {
+      "Nome": "The sims 4",
+      "Genero": "Simulador",
+      "Imagem": "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg",
+      "id": 8
     }
   ]
 }

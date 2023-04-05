@@ -34,11 +34,7 @@ async function listaCards() {
 
 listaCards();
 
-
 //criando cards novos
-
-
-
 // criaCard(nome, genero,imagem)
 
 
